@@ -8,3 +8,9 @@ Aplikace se automaticky připojuje k Riot API a po každé ranked hře stahuje h
 - Django framework
 - Riot Games API
 - SQLite/PostgreSQL databáze
+
+### odborny clanek 
+
+### diagram user flow 
+
+### navrh wireframes 
