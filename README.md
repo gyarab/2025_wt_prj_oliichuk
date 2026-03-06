@@ -11,6 +11,5 @@ Aplikace se automaticky připojuje k Riot API a po každé ranked hře stahuje h
 
 ### odborny clanek 
 
-### diagram user flow 
-
-### navrh wireframes 
+### diagram user flow + navrh wireframes 
+![IMG_20260306_093542](https://github.com/user-attachments/assets/268760c5-786a-4883-ab14-e8e3254f3550)
