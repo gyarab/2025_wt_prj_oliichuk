@@ -116,3 +116,10 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/6.0/howto/static-files/
 
 STATIC_URL = 'static/'
+
+import os
+
+VAL_API_BASE_URL = os.environ.get("VAL_API_BASE_URL", "")
+VAL_API_KEY = os.environ.get("VAL_API_KEY", "")
+VAL_API_AUTH_MODE = os.environ.get("VAL_API_AUTH_MODE", "x-riot-token")
+# "bearer" nebo "x-riot-token"
