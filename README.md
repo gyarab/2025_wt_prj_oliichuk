@@ -18,3 +18,7 @@ V aplikaci běžně rozlišujeme tři role. _Anonymní návštěvník_ může pr
 
 ### diagram user flow + navrh wireframes 
 ![IMG_20260306_093542](https://github.com/user-attachments/assets/268760c5-786a-4883-ab14-e8e3254f3550)
+
+## E-R diagram
+![E-R](https://github.com/user-attachments/assets/b58df625-7479-4ec9-8bc2-411b3e39a7ac)
+
