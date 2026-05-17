@@ -1,0 +1,32 @@
+- model: yourapp.matchstats
+  pk: 1
+  fields:
+    match: 1
+    player: 1
+    team: "Red"
+    kills: 20
+    deaths: 15
+    assists: 5
+    acs: 245
+
+- model: yourapp.matchstats
+  pk: 2
+  fields:
+    match: 1
+    player: 2
+    team: "Blue"
+    kills: 18
+    deaths: 17
+    assists: 7
+    acs: 230
+
+- model: yourapp.matchstats
+  pk: 3
+  fields:
+    match: 2
+    player: 1
+    team: "Blue"
+    kills: 25
+    deaths: 10
+    assists: 3
+    acs: 290
