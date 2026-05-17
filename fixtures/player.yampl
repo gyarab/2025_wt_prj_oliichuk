@@ -1,0 +1,13 @@
+- model: yourapp.player
+  pk: 1
+  fields:
+    puuid: "puuid_00000000000000000000000000000001"
+    game_name: "TestPlayerOne"
+    tag_line: "EUW"
+
+- model: yourapp.player
+  pk: 2
+  fields:
+    puuid: "puuid_00000000000000000000000000000002"
+    game_name: "TestPlayerTwo"
+    tag_line: "NA1"
