@@ -1,0 +1,15 @@
+- model: yourapp.match
+  pk: 1
+  fields:
+    riot_match_id: "riot_match_00000000000000000000000000000001"
+    started_at: "2026-05-17T12:34:56Z"
+    game_version: "10.01.00"
+    queue_id: "competitive"
+
+- model: yourapp.match
+  pk: 2
+  fields:
+    riot_match_id: "riot_match_00000000000000000000000000000002"
+    started_at: "2026-05-16T20:15:00Z"
+    game_version: "10.01.00"
+    queue_id: "swiftplay"
