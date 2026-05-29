@@ -24,10 +24,9 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', views.render_about, name="home"), 
-    path('about/', views.render_about, name="about"), 
-    path("api/", api.urls),  # <---------- !
-    path('api_playground/', views.render_api_playground, name="api_playground"),
-    path("admin/", admin.site.urls),
+    path('', views.render_about, name="home"),
+    path('about/', views.render_about, name="about"),
+    path('api/upsert_player/', views.upsert_player, name='upsert_player'),
     path("api/", api.urls),
+    path('api_playground/', views.render_api_playground, name="api_playground"),
 ]
